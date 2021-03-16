@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">TareasMVVM</string>
+    <string name="agregar_tarea">Agregar Tarea</string>
+    <string name="titulo">Título</string>
+    <string name="ejemplo_titulo">Ejemplo: Ejercicios Lógica</string>
+    <string name="maestro">Maestro</string>
+    <string name="ejemplo_maestro">Eduardo Bojorquez</string>
+    <string name="fecha_entrega">Fecha de Entrega</string>
+    <string name="agregar">Agregar</string>
 </resources>
